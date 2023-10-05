@@ -521,3 +521,10 @@ a:focus {
   margin-top: 13px;
 }
 
+.link-f:hover, .nav-link:hover{
+  color: #fc5d35 !important;
+}
+
+.link-f{
+  color: #000000;
+}

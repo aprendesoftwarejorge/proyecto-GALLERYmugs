@@ -548,3 +548,7 @@ a:focus {
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }
+
+#termos,.card-img-top, img{
+  height: 100%;
+}
